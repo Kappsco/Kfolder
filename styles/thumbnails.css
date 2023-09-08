@@ -1,0 +1,19 @@
+.KappsCologo{
+  width: 250px;
+  border-radius: 20px;
+  position: fixed;
+  margin-left: 15px;
+  display: flex;
+}
+.Allweathersocks{
+  margin-left: 300px;
+  margin-top: 5px;
+  border-radius: 20px;
+  width: 600px;
+}
+.coupocode_1{
+  display: inline;
+}
+.pageheader{
+  display: inline;
+}
